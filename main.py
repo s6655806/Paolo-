@@ -11,7 +11,7 @@ def home():
     return "<h1>Carlos Bot is Online!</h1>"
 
 # التوكن الخاص بك
-TOKEN = "8754467241:AAHTlQY26Nn0keE4B9H-SVLRCD1G4NwyHJI"
+TOKEN = "8754467241:AAFAJvEOrzb3fRtcqjX9r-hn6Qz_erqZbhA"
 bot = telebot.TeleBot(TOKEN)
 
 # أمر الترحيب المعدل بناءً على طلبك
